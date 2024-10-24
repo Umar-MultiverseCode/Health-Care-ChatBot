@@ -23,6 +23,7 @@ problem_to_dawai = {
     "blood pressure": ("Qalbi Nuska", "https://aetmaad.co.in/product/qalbi-nuska/"),
     "joint pain": ("Rumabil", "https://aetmaad.co.in/product/rumabil/"),
     "ulcers": ("Al-Rehan", "https://aetmaad.co.in/product/al-rehan/")
+    # hello
 }
 
 @app.route('/')  # Home page ka route
