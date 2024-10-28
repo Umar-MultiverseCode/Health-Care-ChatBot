@@ -1,6 +1,6 @@
 ﻿
 
-# 💬🤖 **Aetmaad Health Chatbot** 🩺💊
+# 💬🤖 **Aetmaad Health Chatbot** 🩺💊 
 
 
 Welcome to the **Aetmaad Health Chatbot**—your friendly assistant for personalized health recommendations and advice. This project provides users with a health-focused chatbot that interacts with users, collects essential health information, and suggests remedies available on the **Aetmaad** platform. It's built using Python and Flask, integrated with HTML, CSS, JavaScript, and SQLite for an interactive and seamless user experience.
